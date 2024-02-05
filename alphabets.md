@@ -52,6 +52,8 @@ I = I
 You = U 
 We = Us (us)
 
+fine = fain
+
 //Me = Mi (same as I)
 //myself (same as I)
 
