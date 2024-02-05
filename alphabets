@@ -1,40 +1,57 @@
 # Alphabets
 
+
 Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
 Vowels : A, E, I, O, U
 
 # Numbers
-0 - Di
-1 - Vi
-2 - Ve
-3 - Sa
-4 - Si
-5 - Vu
-6 - Lu
-7 - Ki
-8 - Fa
-9 - Nu
-10 - Hi
-11 - Vi Hi
-12 - Ve Hi
-13 - Sa Hi
+0 - Ok
+1 - Da
+2 - Fa
+3 - Ha
+4 - Ka
+5 - La
+6 - Na
+7 - Sa
+8 - Va
+9 - Uk
+10 - De
+11 - Da De
+12 - Fa De
+13 - Ha De
+..
+100 - Fe
+101 - Fe Da
+102 - Fe Fa
+103 - Fe Ha
+..
+1000 - 
 
 Higher Order Numbers:
-10s (Tens): "Di" (Pronounced 'dee'), chosen for its simplicity and to ensure it is distinct from the basic numbers and common English words, utilizing the available consonants and vowels.
-
-100s (Hundreds): "Ho" (Pronounced 'ho'), selected for its clear, concise sound that stands apart from the single digits and is not commonly used in English, fitting within the given constraints.
-
-1000s (Thousands): "Ke" (Pronounced 'kay'), offering a straightforward pronunciation that is easily distinguishable from lower numbers and avoids common English usage, making effective use of the consonant "K."
-
-10000s (Ten Thousands): "Se" (Pronounced 'say'), chosen for its uniqueness and the absence of confusion with English words, ensuring clarity in the numeric system, and leveraging the consonant "S" for a higher order number.
+10s (Tens): "De" (Pronounced 'day'), 
+100s (Hundreds): "Fe" (Pronounced 'fay'),
+1000s (Thousands): "He" (Pronounced 'hay'),
+1,000,000 (Million): "Ke" (Pronounced 'kay'), 
+1,000,000,000 (Billion): "Le" (Pronounced 'lay'), 
 
 
-# Based upon frequency of use, we will craft the base words
-e.g. from - Fom
-e.g. for - fo
-e.g. you - u
-e.g. I - I
-e.g. Me - mi
+# Two letter combinations for numeric and most commonly use.
+Accepting single letter too
+
+I = I
+You = U 
+Me = Mi
+To = Do
+Do = Du
+Go = Ko
+From = Flon
+Phone = Fon
+What = Vad
+Where = Vhe
+When = Ven
+Why = Vai
+
+
 
 we do so without having spelling bee competition.
 make - mek
