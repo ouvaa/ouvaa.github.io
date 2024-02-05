@@ -95,6 +95,9 @@ Ear = eal
 Mouth = nouh
 Nose = nous
 
+Love = luf
+laugh = laf
+
 Today = doDei (To Day)
 
 next = nes
@@ -103,7 +106,7 @@ past = das
 Yesterday = dasDei (past day)
 
 Together = viui
-Of = o
+Of = o-
 
 Week = vik
 
