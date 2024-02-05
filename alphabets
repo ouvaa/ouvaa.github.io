@@ -136,8 +136,8 @@ watermelon = vodernelon
 //yoyo = wowo
 
 horse = holse
-stripe = sediab
-zebra = shibula
+stripe = sediab // this is wrong, shld be within 5 characters
+//zebra = shibula
 
 
 happy = hapi
