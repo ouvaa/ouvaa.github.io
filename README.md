@@ -1,5 +1,7 @@
 check [alphabets.](https://github.com/ouvaa/ouvaalan/blob/main/alphabets)
 
+To be used in radix trie etc for in memory performance. 
+
 # Introduction to Ouvaalan: A New Paradigm in Universal Language for Computational Efficiency & Optimum Communication
 
 ## Abstract
