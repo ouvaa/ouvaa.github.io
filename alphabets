@@ -40,7 +40,8 @@ Accepting single letter too
 
 I = I
 You = U 
-Me = Mi
+//Me = Mi (same as I)
+//myself (same as I)
 To = Do
 Do = Du
 Go = Ko
@@ -50,6 +51,14 @@ What = Vad
 Where = Vhe
 When = Ven
 Why = Vai
+Be = Di
+The = Dhe 
+That = Dad
+It = Id
+Will = Vil
+Boy = Doi
+Man = nan
+woman = vonan
 
 
 
