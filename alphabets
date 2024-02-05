@@ -76,14 +76,15 @@ Today = doDei (To Day)
 Tomorrow = Dei (Day) 
 Of = o
 
-Monday = deioda (Day Of 1)
-2 - deiofa (Day Of 2)
-3 - deioha (Day Of 3)
-4 - deioka
-5 - deiola
-6 - deiona
-7 - deiosa (Day of 7)
+Week = vik
 
+Monday = vikda (Week of Day 1)
+2 - vikfa (Week of Day 2)
+3 - vikha 
+4 - vikka
+5 - vikla
+6 - vikna
+7 - viksa 
 
 Will you be my friend?
 Vil u di flem i
