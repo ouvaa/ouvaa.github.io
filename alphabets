@@ -1,5 +1,6 @@
 # Alphabets
 
+make full use of "-" to denote combination of words.
 
 Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
 Vowels : A, E, I, O, U
@@ -98,29 +99,41 @@ egg = Ek
 flower = flover
 grapes = klades
 Hat = had
+ice = ais
+cream = klean
 ice cream = ais klean
-jaguar = kakual
+//jaguar = kakual
 kite = kaid
 leaf = lif
-monkey = nonki
-nut = nud
+//monkey = nonki
+//nut = nud
 orange = olank
-pig = dik
-quail = kuail
-robot = lodot
-strawberry = slawbelli
+//pig = dik
+
+
+//quail = kuail
+//robot = lodot
+//strawberry = slawbelli
 tree = tili
-umbrella = andella
-violin = vailin
+//umbrella = andella
+//violin = vailin
+water = vader
+melon = nelon
+
 watermelon = vadernelon
-xylophone = silofon
-yoyo = wowo
+//xylophone = silofon
+//yoyo = wowo
+
+horse = holse
+stripe = sediab
 zebra = shibula
+
+
 happy = hapi
 cry = kelai
 sad = sad
 
-
+Note : there should be only 40000 base words, zebra can be holse-sediab
 
 we do so without having spelling bee competition.
 make - mek
