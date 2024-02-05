@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.classless.min.css">
 </head>
   <body>
-
+  <div id="content">
     ### Introducing Ouvaalan: A Revolution in Universal Language Design for Enhanced Computational and Communicative Efficiency
 
 #### Abstract
@@ -44,5 +44,12 @@ For an in-depth exploration of Ouvaalan’s alphabetic system, please refer to `
 Dive into learning Ouvaalan [here](#).
 
 We invite contributions and participation from interested individuals.
+
+    </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.getElementById('content').innerHTML =
+      marked.parse('# Marked in browser\n\nRendered by **marked**.');
+  </script>
 </body>
 </html>
