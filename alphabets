@@ -63,7 +63,7 @@ Friend = flen
 Day = Dei
 Now = Mau
 Talk = Tok
-Today = Dei (Day) Mau (Now)
+Today = Deimau (Day) (Now)
 Tomorrow = Dei (Day) 
 Of = o
 
