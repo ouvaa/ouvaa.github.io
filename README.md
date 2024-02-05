@@ -1,3 +1,5 @@
+check [alphabets.](https://github.com/ouvaa/ouvaalan/blob/main/alphabets)
+
 # Introduction to Ouvaalan: A New Paradigm in Universal Language for Computational Efficiency & Optimum Communication
 
 ## Abstract
