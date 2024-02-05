@@ -2,6 +2,8 @@
 
 make full use of "-" to denote combination of words.
 
+1 word should not be more than 5 characters long
+
 Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
 Vowels : A, E, I, O, U
 
