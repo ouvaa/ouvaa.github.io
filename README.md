@@ -2,7 +2,7 @@ check [alphabets.md](https://github.com/ouvaa/ouvaalan/blob/main/alphabets.md)
 
 To be used in radix trie etc for in memory performance. 
 
-# Introduction to Ouvaalan: A New Paradigm in Universal Language for Computational Efficiency & Optimum Communication
+# Introduction to Ouvaalan: A New Paradigm in Universal Language for Computational Efficiency & Optimum Communication For Artificial Intelligence & Human
 
 ## Abstract
 
