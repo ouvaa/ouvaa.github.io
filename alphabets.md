@@ -43,12 +43,18 @@ Higher Order Numbers:
 
 # Two letter combinations for numeric and most commonly use.
 Accepting single letter too
+yes = vi
+no = no
+
+Is = is
 
 I = I
-Is = is
 You = U 
+We = Us (us)
+
 //Me = Mi (same as I)
 //myself (same as I)
+
 To = Do
 Do = Du
 Go = Ko
@@ -76,7 +82,6 @@ Eat = ik
 Drink = dink
 Talk = Tok
 Way = Ve
-We = Vi
 Eye = ei
 Ear = eal
 Mouth = nouh
