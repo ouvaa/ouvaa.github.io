@@ -7,7 +7,7 @@
 - How This Book Can Transform Your Communication Skills
 
 **Introduction**
-- The Genesis of Ouvaa: Bridging Human and AI Communication
+- [The Genesis of Ouvaa: Bridging Human and AI Communication](https://github.com/ouvaa/ouvaalan/blob/main/genesis.md)
 - Navigating This Guide: A Roadmap for Learners
 
 ### Part I: Foundations of Ouvaa
