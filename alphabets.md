@@ -75,12 +75,15 @@ Now = Mau
 Eat = ik
 Drink = dink
 Talk = Tok
+Way = Ve
+We = Vi
 Eye = ei
 Ear = eal
 Mouth = nouh
 Nose = nous
 Today = doDei (To Day)
-Tomorrow = Dei (Day) 
+Tomorrow = Dei (Day)
+Together = viui
 Of = o
 
 Week = vik
