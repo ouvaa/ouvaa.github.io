@@ -38,7 +38,12 @@ Higher Order Numbers:
 100s (Hundreds): "Fe" (Pronounced 'fay'),
 1000s (Thousands): "He" (Pronounced 'hay'),
 1,000,000 (Million): "Ke" (Pronounced 'kay'), 
-1,000,000,000 (Billion): "Le" (Pronounced 'lay'), 
+1,000,000,000 (Billion): "Le" (Pronounced 'lay'),
+
+
+first - doda (to 1)
+second - dofa (to 2)
+third - doha (to 3)
 
 
 # Two letter combinations for numeric and most commonly use.
