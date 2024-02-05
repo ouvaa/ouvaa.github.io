@@ -1,4 +1,5 @@
 # Alphabets
+```
 
 make full use of "-" to denote combination of words.
 
@@ -9,6 +10,7 @@ Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
 Vowels : A, E, I, O, U
 
 # Numbers
+
 0 - Uk
 1 - Da
 2 - Fa
@@ -153,3 +155,5 @@ we do so without having spelling bee competition.
 make - mek
 you - u
 and - n
+
+```
