@@ -43,4 +43,6 @@ This section would include references to existing research on constructed langua
 
 check [alphabets.md](https://github.com/ouvaa/ouvaalan/blob/main/alphabets.md)
 
+To learn ouvaa, [check this](https://github.com/ouvaa/ouvaalan/blob/main/beginner.md)
+
 Looking for contributors and participants
