@@ -136,10 +136,10 @@ orange = olank
 //strawberry = slawbelli
 //umbrella = andella
 //violin = vailin
-water = voder
+water = vodel
 melon = nelon
 
-watermelon = vodernelon
+watermelon = vodelnelon
 //xylophone = silofon
 //yoyo = wowo
 
