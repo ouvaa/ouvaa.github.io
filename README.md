@@ -39,3 +39,8 @@ Ouvaalan represents a pioneering effort to merge linguistic simplicity with comp
 ## References
 
 This section would include references to existing research on constructed languages, computational linguistics, AI efficiency, and environmental impacts of digital technology, providing a scholarly context for Ouvaalan's development and anticipated impact.
+
+
+check [alphabets.md](https://github.com/ouvaa/ouvaalan/blob/main/alphabets.md)
+
+Looking for contributors and participants
