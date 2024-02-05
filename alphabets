@@ -64,7 +64,13 @@ woman = vonan
 Friend = flen
 Day = Dei
 Now = Mau
+Eat = ik
+Drink = dink
 Talk = Tok
+Eye = ei
+Ear = eal
+Mouth = nouh
+Nose = nous
 Today = doDei (To Day)
 Tomorrow = Dei (Day) 
 Of = o
@@ -83,6 +89,34 @@ Vil u di flem i
 
 How is your day?
 hov dei?
+
+apple = Addel
+ball = dall
+cat = kad
+dog = dok
+egg = Ek
+flower = flover
+grapes = klades
+Hat = had
+ice cream = ais klean
+jaguar = kakual
+kite = kaid
+leaf = lif
+monkey = nonki
+nut = nud
+orange = olank
+pig = dik
+quail = kuail
+robot = lodot
+strawberry = slawbelli
+tree = tili
+umbrella = andella
+violin = vailin
+watermelon = vadernelon
+xylophone = silofon
+yoyo = wowo
+zebra = shibula
+
 
 
 we do so without having spelling bee competition.
