@@ -3,6 +3,7 @@
 make full use of "-" to denote combination of words.
 
 1 word should not be more than 5 characters long
+if detect more than 5 characters, can split into 2 or used in tries for efficient processing
 
 Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
 Vowels : A, E, I, O, U
