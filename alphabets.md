@@ -63,6 +63,7 @@ fine = fain
 //myself (same as I)
 
 To = Do
+For = fo
 Do = Du
 Go = Ko
 From = Flon
@@ -84,7 +85,7 @@ Man = nan
 woman = vonan
 Friend = flen
 Day = Dei
-Now = Mau
+Now = nau
 Eat = ik
 Drink = dink
 Talk = Tok
@@ -93,8 +94,14 @@ Eye = ei
 Ear = eal
 Mouth = nouh
 Nose = nous
+
 Today = doDei (To Day)
-Tomorrow = Dei (Day)
+
+next = nes
+Tomorrow = nesDei (next Day)
+past = das
+Yesterday = dasDei (past day)
+
 Together = viui
 Of = o
 
