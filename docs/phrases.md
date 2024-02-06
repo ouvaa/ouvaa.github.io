@@ -13,7 +13,7 @@
   - i soli fo incov 
 
 - **You're welcome to join us.**
-  - velkom u koin us
+  - vekom u koin us
 
 - **How are you feeling today?**
   - hov fiel u dodei?
