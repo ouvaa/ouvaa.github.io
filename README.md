@@ -1,8 +1,6 @@
-# Ouvaalam - A.I. Human Universal Language for the Masses 
+# Ouvaalam - The Universal A.I.-Human Language for the Masses 
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
-
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+Ouvaalam, a universal language conceived to facilitate communication between artificial intelligence and humans, is crafted with a focus on inclusivity, efficiency, and practicality. Grounded in principles of simplicity and computational optimization, paving the way for interaction within between A.I. agents and being accessible to humanity at large.
 
 ![Thumbnail of Minimal](thumbnail.png)
 
