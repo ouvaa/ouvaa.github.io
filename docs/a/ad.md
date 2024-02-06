@@ -2,8 +2,7 @@
 
 | Word     | Meaning       |
 |----------|---------------|
-| Ado      | Ado           |
-| Adle     | Able          |
+| Adle(non-use, replaced by kan = can)    | Able           |
 | Addel    | Apple         |
 | Adod     | Adopt         |
 | Adaf     | Affix         |
