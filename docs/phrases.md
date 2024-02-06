@@ -6,6 +6,23 @@
 - **Please take a seat.**
   - dlis sead
 
+
+**Compound words**
+  - **Horse**
+    - Holse
+  - **Camel**
+    - Holsehaln (horse with hump)
+  - **Unicorn**
+    - Holsehoan (horse with horn)
+  - **Donkey**
+    - Holsesmol (horse small)
+  - **Zebra**
+    - Holsesdaid (horse with stripe)
+  
+
+ **Other Common Phrases**
+
+
 - **Excuse me, where's the restroom?**
   - soli, doiled vhe? (sorry, toilet where?)
 
