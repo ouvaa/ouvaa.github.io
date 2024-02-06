@@ -86,7 +86,7 @@ As rather evident, the pronunciation gives the easiest english word that comes t
   - dhak u so mush fo al
 
 - **That's very kind of you.**
-  - u veli kaim
+  - u veli kain
 
 - **I'm sorry to hear that.**
   - i soli heal dat 
