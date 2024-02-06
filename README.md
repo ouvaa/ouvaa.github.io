@@ -5,7 +5,7 @@ Ouvaalan, a universal language conceived to facilitate communication between art
 **Ouvaalan** is a portmanteau of **Ouvaa (or waa)**, the universal first word uttered by all new born human beings and **Lan**, which means language in **ouvaalan**.
 
 ### Vowels: 
-Ouvaa includes five vowels (A, E, I, O, U), mirroring the basic vowel system found in many world languages. These vowels can appear in short and long forms, which are phonemically distinct and can change the meaning of words.
+Ouvaalan includes five vowels (A, E, I, O, U), mirroring the basic vowel system found in many world languages. These vowels can appear in short and long forms, which are phonemically distinct and can change the meaning of words.
 
 ### Consonants:
 With 8 consonants	D, F, H, K, L, N (as M), S, V (as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
