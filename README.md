@@ -2,13 +2,16 @@
 
 Ouvaalan, a universal language conceived to facilitate communication between artificial intelligence and humans, is crafted with a focus on inclusivity, efficiency, and practicality. Grounded in principles of simplicity and computational optimization, paving the way for interaction within between A.I. agents and being accessible to humanity at large.
 
-![Ouvaalan alphabets](https://github.com/ouvaa/ouvaa.github.io/blob/main/assets/img/ouvaalanletters.png)
+![Ouvaalan alphabets](https://raw.githubusercontent.com/ouvaa/ouvaa.github.io/main/assets/img/ouvaalanletters.png)
 
 ### Vowels: 
 Ouvaa includes five vowels (A, E, I, O, U), mirroring the basic vowel system found in many world languages. These vowels can appear in short and long forms, which are phonemically distinct and can change the meaning of words.
 
 ### Consonants:
 With 8 consonants	D, F, H, K, L, N (as M), S, V (as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
+
+There shall be a maximum of 40000 base words
+Each word is made up of
 
 The development of a minimal language, such as Ouvaalan, offers a multitude of benefits, particularly in the context of computational efficiency, educational simplicity, and specialized applications like llama training. By distilling language to its most fundamental components, Ouvaalan can significantly enhance communication efficiency, learning curves, and technological integration. Below are key advantages of creating and implementing a minimal language like Ouvaalan:
 
