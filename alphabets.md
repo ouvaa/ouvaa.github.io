@@ -26,13 +26,30 @@
 | 8      | Va             |
 | 9      | Ok             |
 | 10     | De             |
-| 11     | Da-De          |
-| 12     | Fa-De          |
+| 11     | DeDA          |
+| 12     | DeFa          |
+| ...    | ...            |
+| 20     | FaDe          |
+| 21     | FaDeDa          |
+| 22     | FaDeFa          |
 | ...    | ...            |
 | 100     | Fe          |
-| 101     | Da-Fe          |
-| 101     | Fa-Fe          |
+| 101     | FeDa          |
+| 102     | FeFa          |
 | ...    | ...            |
+| 111     | FeDeDa          |
+| 112     | FeDeDa          |
+| ...    | ...            |
+| 200     | FaFe          |
+| 201     | FaFeDa          |
+| 202     | FaFeFa          |
+| ...    | ...            |
+| 210     | FaFeDe          |
+| 211     | FaFeDeDa          |
+| 212     | FaFeDeFa          |
+| ...    | ...            |
+| 222     | FaFeFaDeFa          |
+| 223     | FaFeFaDeHa          |
 
 #### Higher Order Numerals
 
