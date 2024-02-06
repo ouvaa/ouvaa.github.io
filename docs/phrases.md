@@ -113,7 +113,7 @@ As rather evident, the pronunciation gives the easiest english word that comes t
   - i no knol
 
 - **Let's get started.**
-  - led us (kek) sdard
+  - led us (kek) sdad
 
 - **Is everything okay?**
   - al kud? (all good?)
