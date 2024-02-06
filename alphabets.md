@@ -6,8 +6,8 @@
 
 | Type       | Letters                           |
 |------------|-----------------------------------|
-| Consonants | D, F, H, K, L, N (as M), S, V (as W) |
 | Vowels     | A, E, I, O, U                     |
+| Consonants | D, F, H, K, L, N (as M), S, V (as W) |
 
 ### Numerical System
 
@@ -15,6 +15,7 @@
 
 | Number | Representation |
 |--------|----------------|
+| .      | Ak             |
 | 0      | Uk             |
 | 1      | Da             |
 | 2      | Fa             |
@@ -109,6 +110,7 @@
 | Di     | Be       |
 | Dhe    | The      |
 | Dad    | That     |
+| Dis    | This     |
 | Id     | It       |
 | Vil    | Will     |
 | Doi    | Boy      |
