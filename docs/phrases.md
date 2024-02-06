@@ -20,6 +20,9 @@
     - Holsesdaid (horse with stripe)
   - **Giraffe**
     - Holselonk (long horse)
+
+- **Should we go camel riding today?**
+  - shud us ko liad holsehaln dodei? (sorry, toilet where?)
   
 
  **Other Common Phrases**
