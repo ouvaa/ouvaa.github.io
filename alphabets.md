@@ -29,6 +29,10 @@
 | 11     | Da-De          |
 | 12     | Fa-De          |
 | ...    | ...            |
+| 100     | Fe          |
+| 101     | Da-Fe          |
+| 101     | Fa-Fe          |
+| ...    | ...            |
 
 #### Higher Order Numerals
 
@@ -47,6 +51,8 @@
 | First    | Doda  |
 | Second   | Dofa  |
 | Third    | Doha  |
+| Fourth    | Doka  |
+| Fifth    | Dola  |
 
 ### Lexicon
 
