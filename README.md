@@ -24,8 +24,15 @@ However, in actuality, **the base words used will not exceed 2^15 which is 32,76
 
 
 ## Compound Words
-Tili 
 
+Emphasizing 1 form per word, Ouvaalan has the following features: 
+* **No plurals**, examples: 
+   - Tree = Tili, Forest = Tili-tili. 
+- Dog = Dok, 2 Dogs = Fa (means 2) Dog, 3 Dogs = Ha (means 3) Dog. Dogs = Dok-dok. 
+* **No past, present, future tense**, examples:
+    - Today = dodei (do = to, dei = day)
+    - Tomorrow = nesdei (nes = next, dei = day)
+    - Yesterday = dasdei (das = past, dei = day)
 
 ## Benefits of Ouvaalan
 
