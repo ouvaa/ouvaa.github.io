@@ -22,7 +22,7 @@
     - Holselonk (long horse)
 
 - **Should we go camel riding today?**
-  - shud us ko liad holsehaln dodei? (sorry, toilet where?)
+  - shud us ko liad holsehaln dodei?
   
 
  **Other Common Phrases**
