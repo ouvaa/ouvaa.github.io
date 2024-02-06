@@ -51,15 +51,16 @@
 | 222     | FaFeFaDeFa          |
 | 223     | FaFeFaDeHa          |
 
-#### Higher Order Numerals
+### Higher Order Numerals
 
 | Magnitude | Representation |
 |-----------|----------------|
-| Tens      | De (Day)       |
-| Hundreds  | Fe (Fay)       |
-| Thousands | He (Hay)       |
-| Million   | Ke (Kay)       |
-| Billion   | Le (Lay)       |
+| Tens      | De             |
+| Hundreds  | Fe             |
+| Thousands | He             |
+| Million   | Ke             |
+| Billion   | Le             |
+
 
 ### Ordinal Numbers
 
