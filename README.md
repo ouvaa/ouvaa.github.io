@@ -94,6 +94,10 @@ Ultimately, Ouvaa envisions a world where communication serves as a tool for fos
 
 The philosophy of the Ouvaa project is thus a reflection of a broader aspiration towards a more connected, efficient, and inclusive world. It is an invitation to rethink the role of language in society and to explore how simplification can lead to greater clarity, connection, and collective progress.
 
+## What was used in research?
+
+All major world languages including Sanskrit.
+
 ## Contributing
 
 Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. See [the contributing page](docs/contributing.html) for instructions on how to contribute.
