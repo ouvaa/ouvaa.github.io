@@ -20,7 +20,7 @@ With 8 consonants	D, F, H, K, L, N (pronounced as M), S, V (pronounced as W), th
 ### Base Words:
 
 * **Each base word has a character limit of 5 characters.** Each word is decipherable by spelling and thus eliminate the need for spelling bee competition. This also enables fast reading, writing, pronunciation and comprehension. Including the possibility of using the suffixes "-kh", "ee", and "ae", the total estimated base words can be up to 271,920.
-* Each word is primarily chosen for phonetic disimilarity, **primarily based on English** and uses words from all major languages including Mandarin, French, Indonesian, Arabic etc.
+* Each word is primarily chosen for phonetic uniqueness, **primarily based on English** and uses words from all major languages including Mandarin, French, Indonesian, Arabic etc.
 
 However, in actuality, **the base words used will not exceed 2^15 which is 32,768 base words**, the remainder 1 or 2 bits information can be used as "-" to denote continuation or compound of base words so as to represent each base word into a maximum of 2 bytes of data.
 
