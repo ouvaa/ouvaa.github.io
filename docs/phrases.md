@@ -18,6 +18,8 @@
     - Holsesmol (horse small)
   - **Zebra**
     - Holsesdaid (horse with stripe)
+  - **Giraffe**
+    - Holseslonk (long horse)
   
 
  **Other Common Phrases**
