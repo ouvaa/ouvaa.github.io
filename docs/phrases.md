@@ -28,6 +28,7 @@
 
  **Other Common Phrases**
 
+Where "the" (dha) is not needed, do not use.
 
 - **Excuse me, where's the restroom?**
   - soli, doled vhe? (sorry, toilet where?)
