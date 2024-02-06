@@ -64,7 +64,7 @@ As rather evident, the pronunciation gives the easiest english word that comes t
   - kan u hald i dis?
 
 - **I don't quite understand.**
-  - i no knol (i no know)
+  - i les knol (i less know)
 
 - **Could you please clarify?**
   - kan u slain?
