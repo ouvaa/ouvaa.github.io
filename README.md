@@ -30,22 +30,28 @@ In conclusion, the creation of a minimal language like Ouvaalan represents a for
 
 ## Project philosophy
 
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+The philosophy underpinning the Ouvaa project is rooted in the principles of minimalism, inclusivity, and efficiency. It seeks to reimagine communication, learning, and interaction within and across species by distilling language to its essence. This approach is driven by a multifaceted vision that encompasses not only the practical benefits of a simplified language system but also the broader implications for society, technology, and the environment. The core tenets of the Ouvaa philosophy include:
+
+### Minimalism in Language
+Ouvaa champions the idea that complexity in language is not a prerequisite for rich and meaningful communication. By reducing linguistic elements to their most fundamental forms, Ouvaa aims to demonstrate that simplicity can achieve clarity, precision, and effectiveness in conveying ideas. This minimalist approach facilitates easier learning, understanding, and usage, making communication more accessible and less prone to misunderstanding.
+
+### Inclusivity and Accessibility
+At the heart of Ouvaa is a commitment to inclusivity. By creating a language system that is easy to learn and use, Ouvaa strives to bridge communication gaps across different languages, cultures, and cognitive abilities. It envisions a world where language does not serve as a barrier but as a unifying force, enabling more people to participate in global dialogues, access information, and connect with others.
+
+### Efficiency and Sustainability
+Ouvaa acknowledges the growing importance of efficiency in our fast-paced, resource-constrained world. It seeks to optimize the way we use language in both human and technological interactions, aiming for a model of communication that is both energy-efficient and environmentally sustainable. By streamlining language processing in technology, Ouvaa contributes to reducing the computational load and, consequently, the energy consumption of digital systems, aligning with broader goals of sustainability.
+
+### Enhancing AI-Human-Animal Interaction
+Recognizing the profound bond between humans and animals, Ouvaa applies its principles to improve the ways we communicate with other species. It posits that a simplified, consistent language can enhance the effectiveness of training and interaction, fostering stronger connections and understanding between humans and animals.
+
+### Facilitating Technological Advancement
+Ouvaa is designed with an eye towards the future, where seamless integration between humans and technology is paramount. It proposes a language system that can be easily adopted by voice-activated systems, artificial intelligence, and robotics, ensuring that technological advancements remain in harmony with human needs and capabilities.
+
+### Promoting Global Harmony
+Ultimately, Ouvaa envisions a world where communication serves as a tool for fostering peace, understanding, and cooperation among peoples. By providing a simple, common language, it aims to break down the walls that divide us, encouraging a global community where dialogue, collaboration, and mutual respect prevail.
+
+The philosophy of the Ouvaa project is thus a reflection of a broader aspiration towards a more connected, efficient, and inclusive world. It is an invitation to rethink the role of language in society and to explore how simplification can lead to greater clarity, connection, and collective progress.
 
 ## Contributing
 
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
