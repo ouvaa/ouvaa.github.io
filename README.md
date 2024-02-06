@@ -19,7 +19,8 @@ However, in actuality, **the base words used will not exceed 2^15 which is 32,76
 
 ## Ouvaalan Writing System
 
-Each letter of the alphabets MUST be represented as a single stroke to complete the letter. The single stroke lettering enables extremely fast writing. Where capitalization is required, user can reference the image above. 
+* **Each letter of the alphabets MUST be represented as a single stroke to complete the letter.** The single stroke lettering enables extremely fast writing. Where capitalization is required, user can reference the image above. 
+* Each letters' equivalent are available on modern english based keyboard and thus compatible with existing keyboard systems.
 
 ## Benefits of Ouvaalan
 
