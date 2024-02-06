@@ -67,4 +67,4 @@ The philosophy of the Ouvaa project is thus a reflection of a broader aspiration
 
 ## Contributing
 
-Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. See [the contributing page](docs/contributing.html) for instructions on how to contribute.
