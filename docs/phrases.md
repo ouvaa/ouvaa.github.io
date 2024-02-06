@@ -1,7 +1,3 @@
-For a better presentation in Markdown format, I've organized the phrases and their playful phonetic representations into a structured list. This format enhances readability and clarity:
-
----
-
 **Common Phrases and Phonetic Representations**
 
 - **Thank you for your help.**
