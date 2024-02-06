@@ -30,7 +30,7 @@
 
 
 - **Excuse me, where's the restroom?**
-  - soli, doiled vhe? (sorry, toilet where?)
+  - soli, doled vhe? (sorry, toilet where?)
 
 - **I'm sorry for the inconvenience.**
   - i soli fo inkov 
