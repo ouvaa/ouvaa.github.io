@@ -135,4 +135,39 @@
 | Das    | Past     |
 | DasDei | Yesterday|
 
+
+
+| Term      | Meaning       |
+|-----------|---------------|
+| Dleas        | Please        |
+| Mek       | Make          |
+| Lek       | Like          |
+| Sev       | Save          |
+| Lead      | Read          |
+| Vrid      | Write         |
+
+#### Expanded Queries and Pronouns
+
+| Term  | Meaning      |
+|-------|--------------|
+| Which | Which        |
+| Thi   | This         |
+| Tho   | Those        |
+
+#### Additional Nouns, Verbs, and Adjectives
+
+| Term    | Meaning     |
+|---------|-------------|
+| kone     | Zone        |
+| kuik    | Quick       |
+| Slov    | Slow        |
+| belek | Bright      |
+| Dalk    | Dark        |
+| Svit   | Sweet       |
+| diter  | Bitter      |
+| Sdlong  | Strong      |
+| Veek    | Weak        |
+
+
+
 This structured presentation aims to provide a comprehensive overview of the linguistic system, ensuring each element is clearly defined and categorized for ease of understanding and application.
