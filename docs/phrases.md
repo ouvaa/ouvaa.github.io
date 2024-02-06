@@ -1,99 +1,105 @@
-Thank you for your help.
-dhak u
+For a better presentation in Markdown format, I've organized the phrases and their playful phonetic representations into a structured list. This format enhances readability and clarity:
 
-Please take a seat.
-dlis sead
+---
 
-Excuse me, where's the restroom?
-soli, doiled vhe? (sorry, toilet where?)
+**Common Phrases and Phonetic Representations**
 
-I'm sorry for the inconvenience.
-i soli fo incov 
+- **Thank you for your help.**
+  - dhak u
 
-You're welcome to join us.
-velkom u koin us
+- **Please take a seat.**
+  - dlis sead
 
-How are you feeling today?
-hov fiel u dodei?
+- **Excuse me, where's the restroom?**
+  - soli, doiled vhe? (sorry, toilet where?)
 
-I'm fine, thanks for asking.
-i faim, dhak u
+- **I'm sorry for the inconvenience.**
+  - i soli fo incov 
 
-What's your opinion on this?
-Vha dink u on dis?
+- **You're welcome to join us.**
+  - velkom u koin us
 
-My name is [Name], what's yours?
-nane i [Name], vha nane u?
+- **How are you feeling today?**
+  - hov fiel u dodei?
 
-It was nice meeting you.
-nais nead u
+- **I'm fine, thanks for asking.**
+  - i faim, dhak u
 
-How much does it cost?
-kos hov nush?
+- **What's your opinion on this?**
+  - Vha dink u on dis?
 
-Can you help me with this?
-kan u hald i dis?
+- **My name is [Name], what's yours?**
+  - nane i [Name], vha nane u?
 
-I don't quite understand.
-i no knol (i no know)
+- **It was nice meeting you.**
+  - nais nead u
 
-Could you please clarify?
-kan u slain?
+- **How much does it cost?**
+  - kos hov nush?
 
-Do you have the time?
-u hav dine?
+- **Can you help me with this?**
+  - kan u hald i dis?
 
-Could I have the menu, please?
-kan kief i nenu?
+- **I don't quite understand.**
+  - i no knol (i no know)
 
-Where can I find a taxi?
-vhe i seak teksi?
+- **Could you please clarify?**
+  - kan u slain?
 
-I would like to make a reservation.
-i van mek lesef
+- **Do you have the time?**
+  - u hav dine?
 
-Thank you very much for everything.
-dhak u so mush fo al
+- **Could I have the menu, please?**
+  - kan kief i nenu?
 
-That's very kind of you.
-u veli kaim
+- **Where can I find a taxi?**
+  - vhe i seak teksi?
 
-I'm sorry to hear that.
-i soli heal dat 
+- **I would like to make a reservation.**
+  - i van mek lesef
 
-Would you like some coffee?
-u laik kofee?
+- **Thank you very much for everything.**
+  - dhak u so mush fo al
 
-Yes, I'd love to.
-vi, i luf du
+- **That's very kind of you.**
+  - u veli kaim
 
-No, but thanks for offering.
-no, dud dhak fo kief (no, but thank for give)
+- **I'm sorry to hear that.**
+  - i soli heal dat 
 
-Can I get the bill, please?
-kan i kek dil dlis? (can i get bill please)
+- **Would you like some coffee?**
+  - u laik kofee?
 
+- **Yes, I'd love to.**
+  - vi, i luf du
 
-I need some advice.
-i nid sun advis
+- **No, but thanks for offering.**
+  - no, dud dhak fo kief (no, but thank for give)
 
-What do you think about this?
-Vha (do) u dink adoud dis?
+- **Can I get the bill, please?**
+  - kan i kek dil dlis? (can i get bill please)
 
-I have no idea.
-i no kno
+- **I need some advice.**
+  - i nid sun advis
 
-Let's get started.
-led us (kek) sdard
+- **What do you think about this?**
+  - Vha (do) u dink adoud dis?
 
-Is everything okay?
-al kud? (all good?)
+- **I have no idea.**
+  - i no kno
 
-Can you explain this to me?
-kan u slain dis du i? (kan slaim dis?)
+- **Let's get started.**
+  - led us (kek) sdard
 
-I'm looking forward to it.
-i luk fovad du id.
+- **Is everything okay?**
+  - al kud? (all good?)
 
-Please let me know.
-Dlis led i kno
+- **Can you explain this to me?**
+  - kan u slain dis du i? (kan slaim dis?)
+
+- **I'm looking forward to it.**
+  - i luk fovad du id.
+
+- **Please let me know.**
+  - Dlis led i knol
+
