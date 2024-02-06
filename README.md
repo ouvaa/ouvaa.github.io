@@ -1,6 +1,6 @@
 # Ouvaalan - The Universal A.I.-Human Language for the Masses 
 
-Ouvaalan, a universal language conceived to facilitate communication between artificial intelligence and humans, is crafted with a focus on inclusivity, efficiency, and practicality. Grounded in principles of simplicity and computational optimization, paving the way for interaction within between A.I. agents and being accessible to humanity at large.
+Ouvaalan, a simple, minimalist universal language conceived to facilitate communication between artificial intelligence and humans, is crafted with a focus on inclusivity, efficiency, and practicality. Grounded in principles of simplicity and computational optimization, paving the way for interaction within between A.I. agents and being accessible to humanity at large.
 
 **Ouvaalan** is a portmanteau of **Ouvaa (or waa)**, the universal first word uttered by all new born human beings and **Lan**, which means language in **ouvaalan**.
 
@@ -8,7 +8,7 @@ Ouvaalan, a universal language conceived to facilitate communication between art
 Ouvaalan includes five vowels (A, E, I, O, U), mirroring the basic vowel system found in many world languages. These vowels can appear in short and long forms, which are phonemically distinct and can change the meaning of words.
 
 ### Consonants:
-With 8 consonants	D, F, H, K, L, N (as M), S, V (as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
+With 8 consonants	D, F, H, K, L, N (pronounced as M), S, V (pronounced as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
 
 ![Ouvaalan alphabets](https://raw.githubusercontent.com/ouvaa/ouvaa.github.io/main/assets/img/ouvaalanletters.png)
 
