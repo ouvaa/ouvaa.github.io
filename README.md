@@ -10,8 +10,8 @@ Ouvaa includes five vowels (A, E, I, O, U), mirroring the basic vowel system fou
 ### Consonants:
 With 8 consonants	D, F, H, K, L, N (as M), S, V (as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
 
-There shall be a maximum of 40000 base words
-Each word is made up of
+Each base word has a character limit of 5 characters. Including the possibility of using the suffixes "-kh", "ee", and "ae", the total estimated base words can be up to 271,920.
+However, in actuality, the base words used will not exceed 2^15 which is 32,768 base words, the remainder 1 or 2 bits information can be used as "-" to denote continuation or compound of base words so as to represent each base word into a maximum of 2 bytes of data.
 
 The development of a minimal language, such as Ouvaalan, offers a multitude of benefits, particularly in the context of computational efficiency, educational simplicity, and specialized applications like llama training. By distilling language to its most fundamental components, Ouvaalan can significantly enhance communication efficiency, learning curves, and technological integration. Below are key advantages of creating and implementing a minimal language like Ouvaalan:
 
