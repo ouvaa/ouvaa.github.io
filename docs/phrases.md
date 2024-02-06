@@ -25,9 +25,9 @@
   - Vha dink u on dis?
 
 - **My name is [Name], what's yours?**
-  - nane i [Name], vha nane u?
   - nane i [Name], n u?
-
+  _- nane i [Name], vha nane u?_
+ 
 - **It was nice meeting you.**
   - nais nead u
 
