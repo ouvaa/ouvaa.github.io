@@ -1,4 +1,4 @@
-To enhance the clarity and accessibility of the provided linguistic framework, we will reorganize the information into a structured format, utilizing Markdown tables for systematic presentation. This approach not only aligns with academic rigor but also facilitates easier comprehension and reference.
+
 
 ### Phonetic Alphabet
 
