@@ -29,6 +29,7 @@
  **Other Common Phrases**
 
 Where "the" (dha) is not needed, do not use.
+As rather evident, the pronunciation gives the easiest english word that comes to mind.
 
 - **Excuse me, where's the restroom?**
   - soli, doled vhe? (sorry, toilet where?)
