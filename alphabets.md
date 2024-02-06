@@ -150,9 +150,9 @@
 
 | Term  | Meaning      |
 |-------|--------------|
-| Which | Which        |
-| Thi   | This         |
-| Tho   | Those        |
+| Vih   | Which        |
+| Dhi   | This         |
+| Dhose   | Those        |
 
 #### Additional Nouns, Verbs, and Adjectives
 
