@@ -116,7 +116,17 @@ Monday = vikda (Week of Day 1)
 4 - vikka
 5 - vikla
 6 - vikna
-7 - viksa 
+7 - viksa
+
+color = kalol
+white = vhite
+black = dlak
+yellow = velol
+green = klem
+purple = dudel
+red = led
+blue = dilu
+
 
 Will you be my friend?
 Vil u di flem i
@@ -124,8 +134,8 @@ Vil u di flem i
 How is your day?
 hov dei?
 
-apple = Addel
-ball = dall
+apple = Adel
+ball = dal
 cat = kad
 dog = dok
 one dog, two dogs, three dogs = da dok, fa dok, ha dok
