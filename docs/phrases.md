@@ -23,6 +23,7 @@
 
 - **Should we go camel riding today?**
   - shud us ko liad holsehaln dodei?
+  - shud us ko holsehaln liad dodei? (nothing wrong, works as well)
   
 
  **Other Common Phrases**
