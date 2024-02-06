@@ -19,7 +19,7 @@
   - **Zebra**
     - Holsesdaid (horse with stripe)
   - **Giraffe**
-    - Holseslonk (long horse)
+    - Holselonk (long horse)
   
 
  **Other Common Phrases**
