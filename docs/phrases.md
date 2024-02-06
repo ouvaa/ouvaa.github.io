@@ -74,7 +74,7 @@
   - kan kief i nenu?
 
 - **Where can I find a taxi?**
-  - vhe i seak teksi?
+  - vhe i seak teksi? (where i seek taxi? seek = search = find)
     (teksi is pay-car so maybe can be called day-kar)
 
 - **I would like to make a reservation.**
