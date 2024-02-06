@@ -1,194 +1,112 @@
-# Alphabets
-```
+To enhance the clarity and accessibility of the provided linguistic framework, we will reorganize the information into a structured format, utilizing Markdown tables for systematic presentation. This approach not only aligns with academic rigor but also facilitates easier comprehension and reference.
 
-make full use of "-" to denote combination of words.
+### Phonetic Alphabet
 
-1 word should not be more than 5 characters long
-if detect more than 5 characters, can split into 2 or used in tries for efficient processing
+#### Consonants and Vowels
 
-Consonents : D, F, H, K, L, N (pronounced as M), S, V (pronounced as W)
-Vowels : A, E, I, O, U
+| Type       | Letters                           |
+|------------|-----------------------------------|
+| Consonants | D, F, H, K, L, N (as M), S, V (as W) |
+| Vowels     | A, E, I, O, U                     |
 
-# Numbers
+### Numerical System
 
-0 - Uk
-1 - Da
-2 - Fa
-3 - Ha
-4 - Ka
-5 - La
-6 - Na
-7 - Sa
-8 - Va
-9 - Ok
-10 - De
-11 - Da De
-12 - Fa De
-13 - Ha De
-..
-100 - Fe
-101 - Fe Da
-102 - Fe Fa
-103 - Fe Ha
-..
-1000 - 
+#### Basic Numerals
 
-Higher Order Numbers:
-10s (Tens): "De" (Pronounced 'day'), 
-100s (Hundreds): "Fe" (Pronounced 'fay'),
-1000s (Thousands): "He" (Pronounced 'hay'),
-1,000,000 (Million): "Ke" (Pronounced 'kay'), 
-1,000,000,000 (Billion): "Le" (Pronounced 'lay'),
+| Number | Representation |
+|--------|----------------|
+| 0      | Uk             |
+| 1      | Da             |
+| 2      | Fa             |
+| 3      | Ha             |
+| 4      | Ka             |
+| 5      | La             |
+| 6      | Na             |
+| 7      | Sa             |
+| 8      | Va             |
+| 9      | Ok             |
+| 10     | De             |
+| 11     | Da-De          |
+| 12     | Fa-De          |
+| ...    | ...            |
 
+#### Higher Order Numerals
 
-first - doda (to 1)
-second - dofa (to 2)
-third - doha (to 3)
+| Magnitude | Representation |
+|-----------|----------------|
+| Tens      | De (Day)       |
+| Hundreds  | Fe (Fay)       |
+| Thousands | He (Hay)       |
+| Million   | Ke (Kay)       |
+| Billion   | Le (Lay)       |
 
+### Ordinal Numbers
 
-# Two letter combinations for numeric and most commonly use.
-Accepting single letter too
-yes = vi
-no = no
+| Position | Term  |
+|----------|-------|
+| First    | Doda  |
+| Second   | Dofa  |
+| Third    | Doha  |
 
-Is = is
+### Lexicon
 
-I = I
-You = U 
-We = Us (us)
+#### Key Terms and Common Expressions
 
-fine = fain
+| Term      | Meaning |
+|-----------|---------|
+| Vi        | Yes     |
+| No        | No      |
+| Is        | Is      |
+| I         | I       |
+| U         | You     |
+| Us        | We      |
+| Fain      | Fine    |
+| Do        | To      |
+| Fo        | For     |
+| Du        | Do      |
+| Ko        | Go      |
+| Flon      | From    |
+| Fon       | Phone   |
 
-//Me = Mi (same as I)
-//myself (same as I)
+#### Queries and Pronouns
 
-To = Do
-For = fo
-Do = Du
-Go = Ko
-From = Flon
-Phone = Fon
+| Term  | Meaning |
+|-------|---------|
+| Vad   | What    |
+| Vhe   | Where   |
+| Ven   | When    |
+| Vai   | Why     |
+| Hov   | How     |
 
-What = Vad
-Where = Vhe
-When = Ven
-Why = Vai
-How = hov
+#### Nouns, Verbs, and Adjectives
 
-Be = Di
-The = Dhe 
-That = Dad
-It = Id
-Will = Vil
-Boy = Doi
-Man = nan
-woman = vonan
-Friend = flen
-Day = Dei
-Now = nau
-Eat = ik
-Drink = dink
-Talk = Tok
-Way = Ve
-Eye = ei
-Ear = eal
-Mouth = nouh
-Nose = nous
+| Term   | Meaning  |
+|--------|----------|
+| Di     | Be       |
+| Dhe    | The      |
+| Dad    | That     |
+| Id     | It       |
+| Vil    | Will     |
+| Doi    | Boy      |
+| Nan    | Man      |
+| Vonan  | Woman    |
+| Flen   | Friend   |
+| Dei    | Day      |
+| Nau    | Now      |
+| Ik     | Eat      |
+| Dink   | Drink    |
+| Tok    | Talk     |
+| Ve     | Way      |
+| Ei     | Eye      |
+| Eal    | Ear      |
+| Nouh   | Mouth    |
+| Nous   | Nose     |
+| Luf    | Love     |
+| Laf    | Laugh    |
+| DoDei  | Today    |
+| Nes    | Next     |
+| NesDei | Tomorrow |
+| Das    | Past     |
+| DasDei | Yesterday|
 
-Love = luf
-laugh = laf
-
-Today = doDei (To Day)
-
-next = nes
-Tomorrow = nesDei (next Day)
-past = das
-Yesterday = dasDei (past day)
-
-Together = viui
-Of = o-
-
-Week = vik
-
-Monday = vikda (Week of Day 1)
-2 - vikfa (Week of Day 2)
-3 - vikha 
-4 - vikka
-5 - vikla
-6 - vikna
-7 - viksa
-
-color = kalol
-white = vhite
-black = dlak
-yellow = velol
-green = klem
-purple = dudel
-red = led
-blue = dilu
-
-
-Will you be my friend?
-Vil u di flem i
-
-How is your day?
-hov dei?
-
-apple = Adel
-ball = dal
-cat = kad
-dog = dok
-one dog, two dogs, three dogs = da dok, fa dok, ha dok
-
-
-egg = Ek
-flower = flove
-grapes = klade
-Hat = had
-ice = ais
-cream = klean
-ice cream = ais klean
-//jaguar = kakual
-kite = kaid
-
-leaf = lif
-bush = lif-lif
-
-tree = tili
-forest = tili-tili
-
-//monkey = nonki
-//nut = nud
-orange = olank
-//pig = dik
-
-
-//quail = kuail
-//robot = lodot
-//strawberry = slawbelli
-//umbrella = andella
-//violin = vailin
-water = vodel
-melon = nelon
-
-watermelon = vodelnelon
-//xylophone = silofon
-//yoyo = wowo
-
-horse = holse
-stripe = sediab // this is wrong, shld be within 5 characters
-//zebra = shibula
-
-
-happy = hapi
-cry = kelai
-sad = sad
-
-Note : there should be only 40000 base words, zebra can be holse-sediab or holsesediab
-
-we do so without having spelling bee competition.
-make - mek
-you - u
-and - n
-
-```
+This structured presentation aims to provide a comprehensive overview of the linguistic system, ensuring each element is clearly defined and categorized for ease of understanding and application.
