@@ -139,7 +139,7 @@
 
 | Term      | Meaning       |
 |-----------|---------------|
-| Dleas        | Please        |
+| Dlis        | Please        |
 | Mek       | Make          |
 | Lek       | Like          |
 | Sev       | Save          |
