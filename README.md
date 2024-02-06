@@ -77,8 +77,8 @@ At the heart of Ouvaa is a commitment to inclusivity. By creating a language sys
 ### Efficiency and Sustainability
 Ouvaa acknowledges the growing importance of efficiency in our fast-paced, resource-constrained world. It seeks to optimize the way we use language in both human and technological interactions, aiming for a model of communication that is both energy-efficient and environmentally sustainable. By streamlining language processing in technology, Ouvaa contributes to reducing the computational load and, consequently, the energy consumption of digital systems, aligning with broader goals of sustainability.
 
-### Enhancing AI-Human-Animal Interaction
-Recognizing the profound bond between humans and animals, Ouvaa applies its principles to improve the ways we communicate with other species. It posits that a simplified, consistent language can enhance the effectiveness of training and interaction, fostering stronger connections and understanding between humans and animals.
+### Enhancing AI-Human Interaction
+Recognizing the profound bond between artificial intelligence and humans, Ouvaa applies its principles to improve the ways we communicate effectively with machine learning tools. It posits that a simplified, consistent language can enhance the effectiveness of training and interaction, fostering stronger and easier connections and understanding.
 
 ### Facilitating Technological Advancement
 Ouvaa is designed with an eye towards the future, where seamless integration between humans and technology is paramount. It proposes a language system that can be easily adopted by voice-activated systems, artificial intelligence, and robotics, ensuring that technological advancements remain in harmony with human needs and capabilities.
