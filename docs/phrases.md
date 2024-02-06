@@ -26,7 +26,7 @@
 
 - **My name is [Name], what's yours?**
   - nane i [Name], n u?
-  _- nane i [Name], vha nane u?_
+  ~- nane i [Name], vha nane u?~
  
 - **It was nice meeting you.**
   - nais nead u
