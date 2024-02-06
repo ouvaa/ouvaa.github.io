@@ -84,7 +84,7 @@
   - Vha (do) u dink adoud dis?
 
 - **I have no idea.**
-  - i no kno
+  - i no knol
 
 - **Let's get started.**
   - led us (kek) sdard
