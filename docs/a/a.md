@@ -6,4 +6,4 @@
 | Al     | All     |
 | As     | As      |
 
-Ad(/docs/a/ad.html) |
+[Ad](/docs/a/ad.html) |
