@@ -2,18 +2,11 @@
 
 Ouvaalan, a universal language conceived to facilitate communication between artificial intelligence and humans, is crafted with a focus on inclusivity, efficiency, and practicality. Grounded in principles of simplicity and computational optimization, paving the way for interaction within between A.I. agents and being accessible to humanity at large.
 
-
 ### Vowels: 
 Ouvaa includes five vowels (A, E, I, O, U), mirroring the basic vowel system found in many world languages. These vowels can appear in short and long forms, which are phonemically distinct and can change the meaning of words.
 
 ### Consonants:
 With 8 consonants	D, F, H, K, L, N (as M), S, V (as W), the consonant system is similarly streamlined, focusing on sounds that are common and easily articulated across languages. It includes a balanced mix of stops, nasals, fricatives, and approximants.
-
-### Base Words:
-
-**Each base word has a character limit of 5 characters.** Each word is decipherable by spelling and thus eliminate the need for spelling bee competition. This also enables fast reading, writing, pronunciation and comprehension. Including the possibility of using the suffixes "-kh", "ee", and "ae", the total estimated base words can be up to 271,920.
-
-However, in actuality, **the base words used will not exceed 2^15 which is 32,768 base words**, the remainder 1 or 2 bits information can be used as "-" to denote continuation or compound of base words so as to represent each base word into a maximum of 2 bytes of data.
 
 ![Ouvaalan alphabets](https://raw.githubusercontent.com/ouvaa/ouvaa.github.io/main/assets/img/ouvaalanletters.png)
 
@@ -21,6 +14,18 @@ However, in actuality, **the base words used will not exceed 2^15 which is 32,76
 
 * **Each letter of the alphabets MUST be represented as a single stroke to complete the letter.** The single stroke lettering enables extremely fast writing. Where capitalization is required, user can reference the image above. 
 * Each letters' equivalent are available on modern english based keyboard and thus compatible with existing keyboard systems.
+
+### Base Words:
+
+* **Each base word has a character limit of 5 characters.** Each word is decipherable by spelling and thus eliminate the need for spelling bee competition. This also enables fast reading, writing, pronunciation and comprehension. Including the possibility of using the suffixes "-kh", "ee", and "ae", the total estimated base words can be up to 271,920.
+* Each word is primarily chosen for phonetic disimilarity, **primarily based on English** and uses words from all major languages including Mandarin, French, Indonesian, Arabic etc.
+
+However, in actuality, **the base words used will not exceed 2^15 which is 32,768 base words**, the remainder 1 or 2 bits information can be used as "-" to denote continuation or compound of base words so as to represent each base word into a maximum of 2 bytes of data.
+
+
+## Compound Words
+Tili 
+
 
 ## Benefits of Ouvaalan
 
