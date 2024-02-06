@@ -35,6 +35,12 @@ Emphasizing 1 form per word, Ouvaalan has the following features:
     - Today = dodei (do = to, dei = day)
     - Tomorrow = nesdei (nes = next, dei = day)
     - Yesterday = dasdei (das = past, dei = day)
+* **Horse** = Holse
+    - Camel = Holsehaln (horse with hump)
+    - Unicorn = Holsehoan (horse with horn)
+    - Donkey = Holsesmol (horse small)
+    - Zebra = Holsesdaid (horse with stripe)
+    - Giraffe = Holselonk (long horse)
 
 ## Benefits of Ouvaalan
 
