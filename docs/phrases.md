@@ -33,7 +33,7 @@
   - soli, doiled vhe? (sorry, toilet where?)
 
 - **I'm sorry for the inconvenience.**
-  - i soli fo incov 
+  - i soli fo inkov 
 
 - **You're welcome to join us.**
   - vekom u koin us
