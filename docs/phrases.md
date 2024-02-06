@@ -32,7 +32,8 @@
   - nais nead u
 
 - **How much does it cost?**
-  - kos hov nush?
+  - kos hov nush? or
+  - dis kos hov nush?
 
 - **Can you help me with this?**
   - kan u hald i dis?
