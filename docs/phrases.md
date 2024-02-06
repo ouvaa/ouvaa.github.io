@@ -92,7 +92,7 @@ As rather evident, the pronunciation gives the easiest english word that comes t
   - i soli heal dat 
 
 - **Would you like some coffee?**
-  - u laik kofee?
+  - u laik sun kofee?
 
 - **Yes, I'd love to.**
   - vi, i luf du
