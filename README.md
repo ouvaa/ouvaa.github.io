@@ -40,7 +40,6 @@ Emphasizing 1 form per word, Ouvaalan has the following features:
     - Unicorn = Holsehoan (horse with horn)
     - Donkey = Holsesmol (horse small)
     - Zebra = Holsesdaid (horse with stripe)
-    - Giraffe = Holselonk (long horse)
 
 ## Benefits of Ouvaalan
 
