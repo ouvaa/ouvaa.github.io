@@ -95,7 +95,7 @@ The philosophy of the Ouvaa project is thus a reflection of a broader aspiration
 
 ## What was used in research?
 
-All major world languages including Sanskrit.
+All major world languages including Sanskrit, heavily influenced by pidgin.
 
 ## Contributing
 
