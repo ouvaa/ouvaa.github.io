@@ -99,4 +99,5 @@ All major world languages including Sanskrit, heavily influenced by pidgin.
 
 ## Contributing
 
-Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. See [the contributing page](docs/contributing.html) for instructions on how to contribute.
+Interested in contributing to Ouvaalan? We'd love your help. Ouvaalan is an open source project, built one contribution at a time by users like you. 
+**Contribute directly by forking and include your word for use in ouvaalan.**
